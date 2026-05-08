@@ -1,6 +1,6 @@
-called the api for the notifications 
-convert response to json
-defined key value pair for the priority
-sort them based on priority 
-print user entered top n results
+called the api for the notifications,<br>
+convert response to json,<br>
+defined key value pair for the priority,<br>
+sort them based on priority ,<br>
+print user entered top n results,<br>
 
